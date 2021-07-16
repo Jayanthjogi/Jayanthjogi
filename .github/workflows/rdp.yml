@@ -1,0 +1,27 @@
+ApplicabilityInfo="Windows 10.0 Client;Windows 10.0 WinPE;"
+
+Applies to="Windows 10.0"
+
+Build Date="2015/07/26"
+
+Company="Microsoft Corporation"
+
+File Version="1"
+
+Installation Type="FULL"
+
+Installer Engine="Component Based Servicing - WUSA.exe"
+
+Installer Version="6.0.0.0"
+
+KB Article Number="3074683"
+
+Language="ALL"
+
+Package Type="Security Update"
+
+Processor Architecture="x86"
+
+Product Name="Windows 10.0"
+
+Support Link="http://support.microsoft.com?kbid=3074683"
